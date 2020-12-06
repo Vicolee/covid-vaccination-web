@@ -16,6 +16,10 @@ FAQ Page:
 
 <img src="images/faq.jpg" width="600" height="500"/>
 
+How to use the web app:
+
+<img src="images/covid_vaccination_screen_recording.mov" width="600" height="500"/>
+
 ## Setup & Run
 
 See [gemfile](Gemfile) for all the requirements needed to run this web application.
