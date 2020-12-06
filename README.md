@@ -6,15 +6,15 @@ This is a web application that is meant to help people register for the COVID-19
 
 Home Page:
 
-<img src="images/home.jpg" width="325" height="325"/>
+<img src="images/home.jpg" width="600" height="500"/>
 
 Registration Page:
 
-<img src="images/register.jpg" width="325" height="325"/>
+<img src="images/register.jpg" width="600" height="500"/>
 
 FAQ Page:
 
-<img src="images/faq.jpg" width="325" height="325"/>
+<img src="images/faq.jpg" width="600" height="500"/>
 
 ## Setup & Run
 
