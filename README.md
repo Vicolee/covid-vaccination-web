@@ -4,21 +4,21 @@
 
 This is a web application that is meant to help people register for the COVID-19 vaccination.
 
-Home Page:
+### Home Page:
 
-<img src="images/home.jpg" width="600" height="500"/>
+<img src="images/home.jpg" width="650" height="500"/>
 
-Registration Page:
+### Registration Page:
 
-<img src="images/register.jpg" width="600" height="500"/>
+<img src="images/register.jpg" width="650" height="500"/>
 
-FAQ Page:
+### FAQ Page:
 
-<img src="images/faq.jpg" width="600" height="500"/>
+<img src="images/faq.jpg" width="650" height="500"/>
 
-How to use the web app:
+### How to use the web app:
 
-<img src="images/covid_vaccination_screen_recording.mov" width="600" height="500"/>
+[![Video](images/home.jpg)](https://www.youtube.com/watch?v=HUL_7TkWnUA&feature=youtu.be)
 
 ## Setup & Run
 
